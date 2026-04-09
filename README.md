@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hi there, I'm Hooi Yang 🌟
+*I am a 4th year medical student*
+**Hi CKC**
 
-<!--
-**hooiyang/hooiyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***I love you CKC***
+~~i dont want to go for ward rounds~~
+`jkjk`
 
-Here are some ideas to get you started:
+- Item One
+  - Item 2
+  - Item 3
+     - Item One
+         - Item One
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| Name | Role |
+|----|----|
+| Hooi Yang | Student |
+
+🔥💗😘
+
+## About Me
+I am a 4th year MBBS student in UM, I am interested in `CKC`. 
+
+## Tech Stack 
+ZERO knowledge about IT 
+I only know Hello World 
+how to go to another row
+
+[![My Skills] https://unknown.html
+
+### Web:
+https://github.com/chaikokcheng/github_portfolio_workshop/blob/main/0_MarkdownNotes.md
+
+## 🚀 Featured Projects 
+NIL
+Stack: 
+What it does:
+Impact: 
+The Problem:
+The Solution: 
+The Roadblocks: 
+
+## Github Stats
+???
+![Stats](https://github.com/hooiyang/github_portfolio_workshop/blob/main/0_MarkdownNotes.md)
+y error 404 page not found
+
+##
+chai is too fast 
+i cannot catch up 
+
