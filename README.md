@@ -27,7 +27,7 @@ ZERO knowledge about IT
 I only know Hello World 
 how to go to another row
 
-[![My Skills] https://unknown.html
+[![My Skills] https://unknown.html]
 
 ### Web:
 https://github.com/chaikokcheng/github_portfolio_workshop/blob/main/0_MarkdownNotes.md
@@ -50,3 +50,7 @@ y error 404 page not found
 chai is too fast 
 i cannot catch up 
 
+## 📞 Contact
+Hey this is CRAZYYY
+but 
+call me `baby`
